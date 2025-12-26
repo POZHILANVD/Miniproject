@@ -56,9 +56,8 @@ Supabase Dashboard (Database management)
 REST Framework (if API integration is required)
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
+<img width="885" height="539" alt="image" src="https://github.com/user-attachments/assets/826b5143-4d04-4104-9bf8-c56a1fa2ce96" />
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
 
 
 ## Output
