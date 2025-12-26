@@ -1,20 +1,27 @@
 ## Title of the Project
 ONLINE GRIEVANCE PORTAL FOR STUDENTS
 ## Small Description
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+Online Grievance Portal for Students is a full stack web application that allows students to register complaints online and track their grievance status, while administrators manage, monitor, and resolve complaints efficiently through a secure admin dashboard.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Online Grievance Portal for Students is a full stack web application developed to provide a simple, transparent, and efficient platform for students to submit their grievances and track their resolution status online.
+
+The system replaces traditional manual complaint processes with a secure digital solution, improving communication between students and institutional authorities.
+
+It includes a student dashboard for registering complaints and monitoring their status, and an admin dashboard for managing, prioritizing, and resolving grievances.
+
+The portal enhances accountability, reduces response time, and ensures fair grievance redressal within educational institutions
+
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
-
+Secure student registration and login
+User-friendly student dashboard
+Online grievance/complaint submission
+Centralized admin dashboard
+View and manage all student grievances
+Categorize, prioritize, and assign complaints
+Update grievance status and add resolution remarks
+Identify recurring issues or system malfunctions
 ## Requirements
 <!--List the requirements of the project as shown below-->
 * Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
