@@ -15,13 +15,20 @@ The portal enhances accountability, reduces response time, and ensures fair grie
 
 ## Features
 Secure student registration and login
+
 User-friendly student dashboard
+
 Online grievance/complaint submission
-Centralized admin dashboard
-View and manage all student grievances
-Categorize, prioritize, and assign complaints
-Update grievance status and add resolution remarks
-Identify recurring issues or system malfunctions
+
+Category-wise complaint selection
+
+Upload supporting documents or images
+
+Track grievance status (Pending, In Progress, Resolved)
+
+View complaint history and admin responses
+
+Receive notifications on status updates
 ## Requirements
 <!--List the requirements of the project as shown below-->
 * Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
