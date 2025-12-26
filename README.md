@@ -35,9 +35,13 @@ Receive notifications on status updates
 Windows / Ubuntu (64-bit recommended)
 ## Programming Language
 Typescript
+
 Html
+
 css
+
 SQL
+
 JavaScript
 ## Backend Framework
 Supabase
