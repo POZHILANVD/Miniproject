@@ -1,5 +1,6 @@
 ## Title of the Project
-Small description about the project like one below
+ONLINE GRIEVANCE PORTAL FOR STUDENTS
+## Small Description
 The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
 
 ## About
